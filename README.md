@@ -1,4 +1,4 @@
-# Stress-recognition using ECG signals-
+# Stress-recognition from ECG signals-
 
 
 Dataset link: https://www.kaggle.com/datasets/orvile/wesad-wearable-stress-affect-detection-dataset
